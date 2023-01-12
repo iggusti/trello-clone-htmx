@@ -10,7 +10,7 @@ A Trello Clone built with [htmx](https://htmx.org) and [Express.js](https://expr
 ## Local development
 Clone this repo, install dependencies and start the server.
 ```
-git clone https://github.com/rajasegar/htmx-trello
+https://github.com/iggusti/trello-clone-htmx.git
 cd htmx-trello
 npm install
 npm start
