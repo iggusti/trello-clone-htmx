@@ -13,7 +13,7 @@ Clone this repo, install dependencies and start the server.
 https://github.com/iggusti/trello-clone-htmx.git
 cd htmx-trello
 npm install
-npm start
+npm run dev
 ```
 
 ## Inspiration 
